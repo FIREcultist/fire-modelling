@@ -1,0 +1,7 @@
+*
+
+!.gitignore
+!30y-accumulation.ipynb
+!30y-swr.ipynb
+!DISCLAIMER.md
+!my_utils.py
